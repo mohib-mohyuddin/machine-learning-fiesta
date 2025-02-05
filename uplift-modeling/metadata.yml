@@ -1,0 +1,18 @@
+---
+:id: 233095985
+:submitters:
+- :name: Mohannad Alsaegh
+  :email: moalsaegh@ucsd.edu
+- :name: Gaetan Rieben
+  :email: grieben@ucsd.edu
+- :name: Albara Altoukhi
+  :email: aaltoukhi@ucsd.edu
+- :name: Mohib Mohyuddin
+  :email: smohyuddin@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-02-22 06:28:36.954979000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-02-21 22:28:36.954979000 Z
+:status: processed
+:score: 75.0
